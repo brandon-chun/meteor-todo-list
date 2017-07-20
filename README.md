@@ -1,2 +1,1 @@
-# meteor-todo-list
-for ICS491
+# simple-todos
